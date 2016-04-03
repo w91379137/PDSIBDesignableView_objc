@@ -39,6 +39,7 @@
 		F817BC501CA82317002E696C /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		F817BC511CA82317002E696C /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F817BC521CA82317002E696C /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		F88DEDAA1CB18D19001A23D5 /* PDSIBDesignableView_objc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PDSIBDesignableView_objc.h; sourceTree = "<group>"; };
 		F8CF19821CA8267E002555BE /* UIView+PDSIBDesignable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+PDSIBDesignable.h"; sourceTree = "<group>"; };
 		F8CF19831CA8267E002555BE /* UIView+PDSIBDesignable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+PDSIBDesignable.m"; sourceTree = "<group>"; };
 		F8CF19851CA826CF002555BE /* PDSIBView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PDSIBView.h; sourceTree = "<group>"; };
@@ -147,6 +148,7 @@
 		F817BC551CA8232B002E696C /* PDSIBDesignableView_objc */ = {
 			isa = PBXGroup;
 			children = (
+				F88DEDAA1CB18D19001A23D5 /* PDSIBDesignableView_objc.h */,
 				F8CF19821CA8267E002555BE /* UIView+PDSIBDesignable.h */,
 				F8CF19831CA8267E002555BE /* UIView+PDSIBDesignable.m */,
 				F8CF19851CA826CF002555BE /* PDSIBView.h */,
