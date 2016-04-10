@@ -10,6 +10,7 @@
 
 @implementation UIView (PDSIBDesignable)
 
+#pragma mark - Class Method
 + (NSString *)defaultXibName
 {
     return NSStringFromClass(self);
@@ -51,7 +52,7 @@
 #pragma mark - Xib Did Setup
 - (void)xibDidSetup
 {
-    
+    //overwrite
 }
 
 @end

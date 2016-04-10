@@ -44,4 +44,10 @@
     return self.mainContainerView;
 }
 
+- (void)xibDidSetup
+{
+    //If constants in xib no width -> make.trailing.equalTo
+    //If constants at xib no height -> make.botton.equalTo
+}
+
 @end

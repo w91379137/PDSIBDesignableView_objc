@@ -46,4 +46,9 @@
     return self.mainContainerView;
 }
 
+- (void)xibDidSetup
+{
+    //If constants at xib no height -> make.botton.equalTo
+}
+
 @end
